@@ -1,0 +1,1 @@
+# Bidirectional-Joint-Representation-Learning-untuk-Pengenalan-Emosi-pada-Data-Audio-Teks
